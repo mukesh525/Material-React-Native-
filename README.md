@@ -1,4 +1,4 @@
-Comprehensive routing and navigation in React Native made easy
+<<<<<<< HEAD
+=======
 
-https://medium.com/@kevinle/comprehensive-routing-and-navigation-in-react-native-made-easy-6383e6cdc293#.nttfeeq3p
-
+>>>>>>> 0d2974f5c04304fb68abe3f36ac7557255dd67fb
